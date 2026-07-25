@@ -4,7 +4,7 @@ Projeto de portfólio: pipeline de dados e dashboard de performance comercial co
 
 ## Status
 
-🚧 Em desenvolvimento — Sprint 1 (Modelagem + ETL)
+🚧 Em desenvolvimento — Sprint 2 (Containerização)
 
 ## Stack
 
@@ -28,7 +28,7 @@ dashboard/      arquivo PowerBI (.pbix)
 
 ## Roadmap
 
-- [x] Sprint 1 — Modelagem dimensional + ETL em SQL
+- [x] Sprint 1 — Modelagem dimensional + ETL em SQL (staging → dimensões → fato, validado)
 - [ ] Sprint 2 — Containerização (Docker)
 - [ ] Sprint 3 — Dashboard PowerBI
 - [ ] Sprint 4 — Analytics avançado
