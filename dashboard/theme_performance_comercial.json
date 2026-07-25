@@ -1,0 +1,122 @@
+{
+  "name": "Performance Comercial - Dark",
+  "dataColors": [
+    "#2E86FF",
+    "#00C2A8",
+    "#FFB020",
+    "#FF5A5F",
+    "#8C6BFF",
+    "#4FD1C5",
+    "#F76E11",
+    "#3DDC97",
+    "#E85D75",
+    "#5B8DEF"
+  ],
+  "background": "#1E1E28",
+  "foreground": "#F5F5F7",
+  "tableAccent": "#2E86FF",
+  "good": "#3DDC97",
+  "neutral": "#FFB020",
+  "bad": "#FF5A5F",
+  "maximum": "#2E86FF",
+  "center": "#8C6BFF",
+  "minimum": "#1E1E28",
+  "null": "#5A5A66",
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "color": "#F5F5F7"
+    },
+    "title": {
+      "fontSize": 14,
+      "color": "#F5F5F7",
+      "fontFace": "Segoe UI Semibold"
+    },
+    "header": {
+      "fontSize": 12,
+      "color": "#C7C7CF"
+    },
+    "label": {
+      "fontSize": 10,
+      "color": "#C7C7CF"
+    }
+  },
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1E1E28" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#26262F" } }
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#F5F5F7" } },
+            "fontSize": 28
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#8E8E96" } },
+            "fontSize": 11
+          }
+        ]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1E1E28" } },
+            "transparency": 100
+          }
+        ]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1E1E28" } },
+            "transparency": 100
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#26262F" } }
+          }
+        ],
+        "grid": [
+          {
+            "gridVertical": false,
+            "rowPadding": 6
+          }
+        ]
+      }
+    },
+    "scatterChart": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1E1E28" } },
+            "transparency": 100
+          }
+        ]
+      }
+    }
+  }
+}
