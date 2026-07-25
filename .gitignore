@@ -1,0 +1,14 @@
+# Dados brutos (CSVs do Olist — grandes, e disponíveis publicamente no Kaggle)
+data/*.csv
+
+# PowerBI
+*.pbix.bak
+~$*.pbix
+
+# Ambiente
+.env
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
